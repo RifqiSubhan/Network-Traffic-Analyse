@@ -26,8 +26,28 @@ It focuses on **analysis, observation, and documentation**.
 - Local lab environment (hotspot / local network)
 
 ## Repository Structure
+Network-Traffic-Analysis/
+├── README.md
+│
+├── nmap/
+│   ├── scans/
+│   │   ├── nmap_scan.txt
+│   │   └── nmap_scan.png
+│   └── README.md
+│
+├── tcpdump/
+│   ├── captures/
+│   │   └── traffic_capture.pcap
+│   ├── screenshots/
+│   │   └── tcpdump_terminal.png
+│   └── README.md
+│
+├── wireshark/
+│   ├── screenshots/
+│   │   ├── dns_analysis.png
+│   │   └── tcp_handshake.png
+│   └── README.md
 
 
-Contact :
+## Contact :
 - rifqisubhan89@gmail.com
-- +62 82123811711
